@@ -1,0 +1,13 @@
+[package]
+name = "jboss-sentinel"
+version = "0.1.0"
+authors = ["Xavier Cho <mysticfall@greencatsoft.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sysinfo = "0.16.5"
+regex = "1.4.5"
+chan = "0.1.23"
+dotproperties = "0.1.0"
